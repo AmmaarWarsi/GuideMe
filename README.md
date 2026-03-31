@@ -1,19 +1,26 @@
 # GuideMe
 
 ### DODs
-✔ All Epics and User Stories are clearly defined and organized in Jira.
+✔ Code implemented and committed 
 <br>
-✔ Backlog is complete and prioritized using the MoSCoW method.
+✔ Pushed to develop branch 
 <br>
-✔ Database schema is finalized and approved by the team.
+✔ Feature manually tested 
 <br>
-✔ Frontend prototypes are designed and reviewed by the team/supervisor.
+✔ No critical bugs or errors 
 <br>
-✔ Git branching structure is created and ready for development.
+✔ Frontend–backend integration works 
 <br>
-✔ Jira board and workflow are properly set up (To Do, In Progress, Done).
+✔ Supabase database/API verified 
 <br>
-✔ Team members and roles are added to the project workspace.
+✔ Reviewed by team member 
 <br>
-✔ All planning artifacts are reviewed and approved by the supervisor.
-
+✔ App runs successfully 
+<br>
+✔ Deployed and accessible online 
+<br>
+✔ Documentation updated (if needed) 
+<br>
+✔ Merged develop to main (demo-ready) 
+<br>
+✔ User story marked Done
